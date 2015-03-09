@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = mickael.giami@gmail.com
+	name = Mickael Giami
